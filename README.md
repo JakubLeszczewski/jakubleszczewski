@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">I'm begginer front-end developer who loves to code and get new experience.</h3>
-<img align="right" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<img align="right" width="400" src="![image](https://user-images.githubusercontent.com/120104555/214321471-bdbd6f06-5099-4fdb-b803-570dd41e2d0f.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coelhino&label=Profile%20views&color=0e75b6&style=flat" alt="coelhino" /> </p>
 
